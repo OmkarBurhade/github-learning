@@ -18,3 +18,7 @@ merger banda fetch karega and merge karega and re-push karega
 1) git init
     isse hum apne gihub par connect hote hein matlab hamare repository se initialize hote hein
 2) git add .
+    isse hum hamara sare file ko github par upload kar sakte hein.
+3) git commit -m "your first commit"
+    isse hum commit kr sakte hein
+4) git push -u origin branch name
